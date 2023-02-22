@@ -1,0 +1,53 @@
+{
+  "name": "Cyberpunk Neon Theme",
+  "author": "Aleksandr Kolychev",
+  "dark": true,
+  "editorScheme": "/theme/cyberpunk_neon_editor_theme.xml",
+  "colors": {
+    "darkBlue": "#091833",
+    "normalBlue": "#133e7c",
+    "anotherBlue" : "#5f5faf",
+    "lightBlue": "#0abdc6",
+    "lightPink": "#ea00d9",
+    "darkPink": "#711c91",
+    "defaultForeground": "lightBlue",
+    "defaultBackground": "darkBlue",
+    "defaultBorder": "darkBlue",
+    "selectedForeground": "lightPink",
+    "selectedBackground": "darkPink",
+    "selectedBorder": "lightPink",
+    "red": "#f70312"
+  },
+  "ui": {
+    "*": {
+      "background": "defaultBackground",
+      "foreground": "defaultForeground",
+      "selectionBackground": "selectedBackground",
+      "selectionForeground": "defaultForeground"
+    },
+    "Borders": {
+      "color" : "normalBlue",
+      "ContrastBorderColor": "normalBlue"
+    },
+    "Button" : {
+      "default.focusColor": "lightPink"
+    },
+    "ActionButton": {
+      "hoverBackground": "selectedBackground",
+      "hoverBorderColor": "selectedBorder",
+      "pressedBackground": "selectedBackground",
+      "pressedBorderColor": "selectedBackground"
+    },
+    "EditorTabs": {
+      "underlineColor": "lightPink",
+      "hoverBackground": "normalBlue",
+      "underlinedTabBackground": "normalBlue"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default": "normalBlue",
+      "Checkbox.Foreground.Selected": "lightPink"
+    }
+  }
+}

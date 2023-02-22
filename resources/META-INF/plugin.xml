@@ -1,0 +1,49 @@
+<idea-plugin>
+
+    <id>dev.kolychev.jetbrains-cyberpunk-neon-theme</id>
+    <name>Cyberpunk Neon Theme</name>
+    <version>1.0.0</version>
+    <category>UI</category>
+    <vendor email="aleksandr@kolychev.dev" url="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Aleksandr Kolychev</vendor>
+
+    <description><![CDATA[
+        A dark theme inspired by <a href="https://github.com/roboron3042/cyberpunk-neon">Cyberpunk-Neon</a> project
+        <br /><br />
+        To install:
+        <ul>
+          <li>Go to <b>File</b> -> <b>Settings (Ctrl-Alt-S)</b> | <b>Plugins</b></li>
+          <li>Find and install <i>Cyberpunk Neon Theme</i> plugin</li>
+          <li>Restart IDE</li>
+          <li>Go to <b>File</b> -> <b>Settings (Ctrl-Alt-S)</b> | <b>Appearance & Behavior</b> | <b>Appearance</b> and setup the theme in the <i>Theme</i> dropdown list</li>
+        </ul>
+        <br/>
+
+        <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/issues">Report an issue</a>  |  <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/issues">Make a suggestion</a>  |  <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">GitHub</a>
+        <br /><br />
+
+        The theme is open source under the <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/blob/master/LICENSE">MIT license</a>.<br/>
+        <br /><br />
+
+        <img src="https://raw.githubusercontent.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/master/screenshots/cyberpunk-neon-theme-01.png" border="0" width="700" alt="Screenshot 1">
+        <br/>
+        <img src="https://raw.githubusercontent.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/master/screenshots/cyberpunk-neon-theme-02.png" border="0" width="700" alt="Screenshot 2">
+    ]]>
+    </description>
+
+    <change-notes><![CDATA[
+      <b>1.0.0</b>
+      <ul>
+          <li>Initial implementation of the theme</li>
+      </ul>
+    ]]>
+    </change-notes>
+
+    <idea-version since-build="221" until-build="231.*"/>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="28b4738e-f046-40c0-81cf-d9925067fbd0" path="/theme/cyberpunk-neon-theme.theme.json"/>
+    </extensions>
+
+</idea-plugin>
