@@ -1,17 +1,17 @@
 <scheme name="Cyberpunk Neon Theme" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-02-22T22:30:33</property>
+    <property name="created">2023-02-24T01:03:22</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-02-22T22:30:36</property>
-    <property name="originalScheme">_@user_Cyberpunk Neon Theme</property>
+    <property name="modified">2023-02-24T01:03:24</property>
+    <property name="originalScheme">Cyberpunk Neon Theme</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="39703f" />
     <option name="ANNOTATIONS_COLOR" value="adadb3" />
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="242433" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d1d26" />
+    <option name="CARET_ROW_COLOR" value="112e" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="b1e" />
     <option name="DELETED_LINES_COLOR" value="dfdfe6" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
@@ -26,14 +26,15 @@
     <option name="FILESTATUS_UNKNOWN" value="bf8060" />
     <option name="FILESTATUS_addedOutside" value="548049" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="495bb3" />
-    <option name="GUTTER_BACKGROUND" value="20202b" />
-    <option name="INDENT_GUIDE" value="393747" />
+    <option name="GUTTER_BACKGROUND" value="91833" />
+    <option name="INDENT_GUIDE" value="373445" />
     <option name="INFORMATION_HINT" value="2e4280" />
     <option name="LINE_NUMBERS_COLOR" value="575566" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="575566" />
     <option name="METHOD_SEPARATORS_COLOR" value="48415c" />
     <option name="MODIFIED_LINES_COLOR" value="3e7ab3" />
     <option name="NOTIFICATION_BACKGROUND" value="4a2d59" />
+    <option name="PROMOTION_PANE" value="233953" />
     <option name="QUESTION_HINT" value="2e4280" />
     <option name="RECENT_LOCATIONS_SELECTION" value="362f45" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="a5b33e" />
@@ -70,24 +71,24 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="a29fa6" />
+        <option name="FOREGROUND" value="ea00d9" />
+        <option name="BACKGROUND" value="91833" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="a29fa6" />
+        <option name="FOREGROUND" value="abdc6" />
+        <option name="BACKGROUND" value="91833" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="c2bfc7" />
-        <option name="BACKGROUND" value="312e40" />
+        <option name="FOREGROUND" value="abdc6" />
+        <option name="BACKGROUND" value="133e7c" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
-      <value>
-        <option name="FOREGROUND" value="7d7a80" />
-      </value>
+      <value />
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -142,7 +143,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c9c9d1" />
+        <option name="FOREGROUND" value="abdc6" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -163,12 +164,12 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c9c9d1" />
+        <option name="FOREGROUND" value="abdc6" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="54b33e" />
+        <option name="FOREGROUND" value="ea00d9" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

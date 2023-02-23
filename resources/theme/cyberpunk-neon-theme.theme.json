@@ -23,14 +23,25 @@
       "background": "defaultBackground",
       "foreground": "defaultForeground",
       "selectionBackground": "selectedBackground",
-      "selectionForeground": "defaultForeground"
+      "selectionForeground": "defaultForeground",
+      "inactiveBackground": "defaultBackground",
+      "selectionInactiveBackground": "normalBlue",
+      "selectionBackgroundInactive": "normalBlue"
     },
     "Borders": {
       "color" : "normalBlue",
       "ContrastBorderColor": "normalBlue"
     },
     "Button" : {
-      "default.focusColor": "lightPink"
+      "default": {
+        "focusedBorderColor": "lightPink",
+        "startBackground": "normalBlue",
+        "endBackground": "normalBlue",
+        "focusColor": "lightPink"
+      },
+      "startBackground": "darkBlue",
+      "endBackground": "darkBlue",
+      "focusedBorderColor": "lightPink"
     },
     "ActionButton": {
       "hoverBackground": "selectedBackground",
@@ -42,7 +53,60 @@
       "underlineColor": "lightPink",
       "hoverBackground": "normalBlue",
       "underlinedTabBackground": "normalBlue"
+    },
+    "Plugins": {
+      "Tab": {
+        "selectedForeground": "defaultForeground",
+        "selectedBackground": "selectedBackground",
+        "hoverBackground": "selectedBackground"
+      }
+    },
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedForeground": "defaultForeground",
+        "selectedBackground": "selectedBackground"
+      },
+      "SearchField.borderColor": "normalBlue",
+      "Advertiser": {
+        "background": "normalBlue"
+      }
+    },
+    "ComboBox": {
+      "nonEditableBackground": "darkBlue"
+    },
+    "MainToolbar": {
+      "Icon": {
+        "background": "defaultBackground",
+        "hoverBackground": "selectedBackground",
+        "pressedBackground": "selectedBackground"
+      },
+      "Dropdown": {
+        "background": "defaultBackground",
+        "hoverBackground": "selectedBackground",
+        "pressedBackground": "selectedBackground"
+      }
+    },
+    "Popup": {
+      "Advertiser.background": "normalBlue"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "normalBlue"
+      },
+      "HeaderTab": {
+        "hoverBackground": "selectedBackground",
+        "hoverInactiveBackground": "lightPink",
+        "underlineColor": "lightPink",
+        "inactiveUnderlineColor": "lightPink",
+        "underlineHeight": 2
+      },
+      "Button": {
+        "selectedBackground": "selectedBackground",
+        "selectedForeground": "defaultForeground",
+        "hoverBackground": "normalBlue"
+      }
     }
+
   },
   "icons": {
     "ColorPalette": {
