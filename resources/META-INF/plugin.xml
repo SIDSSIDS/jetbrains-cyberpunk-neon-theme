@@ -2,7 +2,7 @@
 
     <id>dev.kolychev.jetbrains-cyberpunk-neon-theme</id>
     <name>Cyberpunk Neon Theme</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <category>UI</category>
     <vendor email="aleksandr@kolychev.dev" url="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Aleksandr Kolychev</vendor>
 
@@ -24,13 +24,15 @@
         The theme is open source under the <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/blob/master/LICENSE">MIT license</a>.<br/>
         <br /><br />
 
-        <img src="https://raw.githubusercontent.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/master/screenshots/cyberpunk-neon-theme-01.png" border="0" width="700" alt="Screenshot 1">
-        <br/>
-        <img src="https://raw.githubusercontent.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/master/screenshots/cyberpunk-neon-theme-02.png" border="0" width="700" alt="Screenshot 2">
+        <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/issues">Report an issue</a>  |  <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/issues">Make a suggestion</a>  |  <a href="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Screenshots</a>
     ]]>
     </description>
 
     <change-notes><![CDATA[
+      <b>1.0.2</b>
+      <ul>
+          <li>Remove screenshots from the description</li>
+      </ul>
       <b>1.0.1</b>
       <ul>
           <li>Update plugin icon</li>
