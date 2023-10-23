@@ -1,2 +1,4 @@
-out
-*.jar
+.gradle
+.idea
+.qodana
+build
