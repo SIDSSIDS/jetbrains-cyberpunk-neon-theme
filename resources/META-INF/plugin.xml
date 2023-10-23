@@ -43,7 +43,7 @@
     ]]>
     </change-notes>
 
-    <idea-version since-build="221" until-build="231.*"/>
+    <idea-version since-build="221" until-build="232.*"/>
 
     <depends>com.intellij.modules.platform</depends>
 
