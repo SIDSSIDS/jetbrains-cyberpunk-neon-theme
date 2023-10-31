@@ -1,4 +1,4 @@
-![Build](https://github.com/SIDSSIDS/test-idea-template/workflows/Build/badge.svg)
+[![Build](https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme/workflows/Build/badge.svg)][gh:build]
 [![Version](https://img.shields.io/jetbrains/plugin/v/21120-cyberpunk-neon-theme.svg)](https://plugins.jetbrains.com/plugin/21120-cyberpunk-neon-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/21120-cyberpunk-neon-theme.svg)](https://plugins.jetbrains.com/plugin/21120-cyberpunk-neon-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
