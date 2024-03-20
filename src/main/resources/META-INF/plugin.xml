@@ -2,7 +2,7 @@
 
     <id>dev.kolychev.jetbrains-cyberpunk-neon-theme</id>
     <name>Cyberpunk Neon Theme</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <category>UI</category>
     <vendor email="aleksandr@kolychev.dev" url="https://github.com/SIDSSIDS/jetbrains-cyberpunk-neon-theme">Aleksandr Kolychev</vendor>
 
@@ -27,6 +27,10 @@
     </description>
 
     <change-notes><![CDATA[
+      <b>1.0.4</b>
+      <ul>
+          <li>Update supported versions (add 2024.1)</li>
+      </ul>
       <b>1.0.3</b>
       <ul>
           <li>Update supported versions</li>
@@ -47,7 +51,7 @@
     ]]>
     </change-notes>
 
-    <idea-version since-build="221" until-build="232.*"/>
+    <idea-version since-build="221" until-build="241.*"/>
 
     <depends>com.intellij.modules.platform</depends>
 
