@@ -30,6 +30,7 @@
       <b>1.0.4</b>
       <ul>
           <li>Update supported versions (add 2024.1)</li>
+          <li>Fix CompletionPopup</li>
       </ul>
       <b>1.0.3</b>
       <ul>

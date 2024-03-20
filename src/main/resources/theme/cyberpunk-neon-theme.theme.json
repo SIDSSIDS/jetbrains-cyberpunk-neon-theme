@@ -105,8 +105,12 @@
         "selectedForeground": "defaultForeground",
         "hoverBackground": "normalBlue"
       }
+    },
+    "CompletionPopup": {
+      "selectionBackground": "selectedBackground",
+      "matchForeground": "lightPink",
+      "selectionInactiveBackground": "defaultBackground"
     }
-
   },
   "icons": {
     "ColorPalette": {

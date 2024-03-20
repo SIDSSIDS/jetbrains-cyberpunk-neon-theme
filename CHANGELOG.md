@@ -5,6 +5,7 @@
 ### Changed
 
 - Update supported versions (add 2024.1)
+- Fix CompletionPopup
 
 ## [1.0.3] - 2023-10-24
 
