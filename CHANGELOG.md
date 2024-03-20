@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [1.0.4] - 2024-03-20
+
+### Changed
+
+- Update supported versions (add 2024.1)
+
 ## [1.0.3] - 2023-10-24
 
 ### Changed
