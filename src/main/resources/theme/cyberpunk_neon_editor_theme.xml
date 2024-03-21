@@ -14,7 +14,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="b1e" />
     <option name="DELETED_LINES_COLOR" value="dfdfe6" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
-    <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
+    <option name="DOCUMENTATION_COLOR" value="91833" />
     <option name="ERROR_HINT" value="802d43" />
     <option name="FILESTATUS_ADDED" value="76b366" />
     <option name="FILESTATUS_DELETED" value="7a7a99" />
@@ -31,6 +31,7 @@
     <option name="INFORMATION_HINT" value="2e4280" />
     <option name="LINE_NUMBERS_COLOR" value="575566" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="575566" />
+    <option name="LOOKUP_COLOR" value="91833" />
     <option name="METHOD_SEPARATORS_COLOR" value="48415c" />
     <option name="MODIFIED_LINES_COLOR" value="3e7ab3" />
     <option name="NOTIFICATION_BACKGROUND" value="4a2d59" />
